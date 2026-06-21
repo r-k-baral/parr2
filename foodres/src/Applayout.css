@@ -1,0 +1,28 @@
+.logo{
+    width: 150px;
+    height: auto;
+    
+    border-radius: 10px ;
+}
+.par-nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(93, 229, 59);
+}
+.navlist{
+  display: flex;
+  padding: 10px;
+  margin: 20px;
+  text-decoration: none;
+  background-color: rgb(231, 149, 49);
+  border-radius: 10px;
+  width: 700px;
+  justify-content: center;
+  list-style-type: none;
+}
+.nav-item{
+     text-decoration: none;
+     margin-left: 20px;
+     background-color:rgb(231, 149, 49) ;
+
+}
