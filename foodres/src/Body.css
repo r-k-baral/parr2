@@ -20,3 +20,9 @@
     border-radius: 10px;
     background-color:rgb(105,170,72);
 }
+.card-view{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    f
+}

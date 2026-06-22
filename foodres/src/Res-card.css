@@ -1,7 +1,7 @@
 .cardtop{
-    margin: 50px;
+    margin: 10px;
     max-width: 200px;
-    border: 2px solid black;
+    border: 2px solid rgb(225, 223, 223);
     padding: 8px;
     border-radius: 10px;
     background-color: rgb(252,252,251);
@@ -22,4 +22,8 @@
     display: flex;
     justify-content: space-between;
    
+}
+.cardtop:hover{
+    cursor: pointer;
+    border: 3px solid rgb(25, 25, 25);
 }

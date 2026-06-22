@@ -11,7 +11,18 @@ const Body = () => {
         <button type='submit' className='search-btn'>Search</button>
       </div>
 
-        <div>
+        <div className='card-view'>
+            <ResCard />
+            <ResCard />
+            <ResCard />
+            <ResCard />
+            <ResCard />
+            <ResCard />
+            <ResCard />
+            <ResCard />
+            <ResCard />
+            <ResCard />
+            <ResCard />
             <ResCard />
         </div>
 
