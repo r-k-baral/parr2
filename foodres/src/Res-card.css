@@ -1,0 +1,16 @@
+.cardtop{
+    margin: 50px;
+    max-width: 180px;
+    border: 2px solid black;
+}
+.img-card{
+    width: 180px;
+    height: 150px;
+}
+.prize{
+    background-color:rgb(105,170,72);
+    text-align: center;
+    margin-top: 2px;
+    width: 180px;
+    height: 35px;
+}
